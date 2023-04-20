@@ -1,1 +1,1 @@
-print("git 2dfsdf, v2 en rama main")
+print("git 2dfsdf, vOtraRama en rama main")
